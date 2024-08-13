@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grid-ctn {
+	@apply mx-auto max-w-[1440px];
+}
+
+.columns {
+	@apply grid grid-cols-4 gap-[16px] gap-y-[2rem] px-[16px];
+}
+
+@screen mobile {
+	.columns {
+		@apply grid-cols-8 gap-[16px] px-[24px];
+	}
+}
+
+@screen tablet {
+	.columns {
+		@apply grid-cols-12 gap-[24px] px-[36px];
+	}
+}
+
+@screen laptop {
+	.columns {
+		@apply grid-cols-12 gap-[30px] px-[45px];
+	}
+}
+
+@screen desktop {
+	.columns {
+		@apply grid-cols-12 gap-[30px] px-[45px];
+	}
+}

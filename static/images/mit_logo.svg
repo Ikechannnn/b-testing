@@ -1,0 +1,14 @@
+<svg width="38" height="24" viewBox="0 0 38 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_74_419" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="2" width="38" height="20">
+<path d="M38 2H0V22H38V2Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_74_419)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M27.4443 6.21053H37.9999V2H27.4443V6.21053Z" fill="white" style="mix-blend-mode:difference"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.86084 15.6842H11.083V2H6.86084V15.6842Z" fill="white" style="mix-blend-mode:difference"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.7222 22H17.9444V2H13.7222V22Z" fill="white" style="mix-blend-mode:difference"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 22H4.22222V2H0V22Z" fill="white" style="mix-blend-mode:difference"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M27.4443 21.9995H31.6665V8.84216H27.4443V21.9995Z" fill="white" style="mix-blend-mode:difference"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.5835 6.21053H24.8057V2H20.5835V6.21053Z" fill="white" style="mix-blend-mode:difference"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.5835 22H24.8057V8.84216H20.5835V22Z" fill="#BCBCBC" style="mix-blend-mode:difference"/>
+</g>
+</svg>
